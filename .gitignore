@@ -1,0 +1,6 @@
+.idea/**
+cinema-avro.iml
+cinema-back.iml
+cinema-boot/cinema-boot.iml
+cinema-front.iml
+cinema-services.iml
